@@ -32,8 +32,8 @@ The deploy form pre-fills all required variables. No additional services needed 
 
 **After the first successful deploy:**
 
-1. Open `https://<your-domain>/dashboard` to verify the server is running
-2. Test the API: `curl https://<your-domain>/collections`
+1. Open `https://{your-domain}/dashboard` to verify the server is running
+2. Test the API: `curl https://{your-domain}/collections`
 
 ## About Hosting
 
